@@ -5,8 +5,15 @@
 // Assignment Due Date: 09-10-2024
 // Course Name: FLT
 // Programming Assignment-2
+<<<<<<< HEAD
 // Changes by dev1 from copy1 branch
+=======
+<<<<<<< HEAD
+// Changes by dev1 from copy1 branch
+=======
+>>>>>>> origin/master
 //new change by copy2 branch
+>>>>>>> origin/master
  README for NDFSMtoDFSM.java
 
 Overview
